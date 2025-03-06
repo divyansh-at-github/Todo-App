@@ -36,7 +36,6 @@ body {
   width: fit-content;
   padding: 0.3rem;
   font-size: 1vw;
-  opacity: 0;
 }
 .todo-input {
   width: 100%;
