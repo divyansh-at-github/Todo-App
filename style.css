@@ -32,10 +32,10 @@ body {
   font-size: 8vh;
 }
 .para{
-  background-color: gray;
   width: fit-content;
   padding: 0.3rem;
   font-size: 1vw;
+  color: rgb(24, 23, 23);
 }
 .todo-input {
   width: 100%;
