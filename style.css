@@ -98,6 +98,7 @@ li {
   .app-container {
     width: 85vw;
     padding: 1rem;
+    gap: 0.1rem;
 
   }
   .heading {
@@ -105,7 +106,7 @@ li {
     
   }
   .para{
-    font-size: 3.5vw;
+    font-size: 5vw;
     color: rgb(24, 23, 23);
   }
   .todo-input {
